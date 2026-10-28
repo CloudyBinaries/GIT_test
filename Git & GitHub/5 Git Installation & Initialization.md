@@ -34,7 +34,7 @@ git config --global user.name "Ahmed Atef"
 ```
 
 ```bash
-git config --global user.email "ahmedatef11115114@gmail.com"
+git config --global user.email "ahmedatef@gmail.com"
 ```
 
 , و كلمة global هي بالنسبة لل user - اما بقي بالنسبة لكل حاجة و كل ال Users بنستخدم :
